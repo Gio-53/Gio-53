@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gio-53
 - 👀 I’m interested in learn to code
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me email: giovanibruno473@gmail.com
 
 <!---
